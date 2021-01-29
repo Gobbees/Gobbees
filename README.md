@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+- Incoming SDE Graduate @ Prime Video 📺
+- Working on my Bachelor's Thesis 🧑‍🎓: see [Crystal Ball](https://github.com/Gobbees/crystal-ball) 🔮
 
 <!--
 **Gobbees/Gobbees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
